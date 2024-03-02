@@ -178,8 +178,8 @@ static= 🇭🇰️ 香港(正则示范), server-tag-regex= 香港|🇭🇰️|H
 #远程服务器订阅模块，可直接订阅SSR，SS链接，以及Quantumult X格式的vmess/trojan/https订阅
 #其它格式可用 opt-parser 参数开启解析器导入使用
 #img-url参数用于指定图标，格式要求同样为 108*108 的 png 图片，可远程，可本地
-https://mojie.app/api/v1/client/subscribe?token=e077f0122c56c47a2f41c9ae84b988c7, tag=URI格式示范(请导入自己订阅), update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
-https://bava8u2znaj6bdzzjnfb.wgetcloud.online/link/c37740d4-69ee-323c-83bd-c8657693e484, tag=QuanX格式示范(导入后删除这两个示范),  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://mojie.app/api/v1/client/subscribe?token=e077f0122c56c47a2f41c9ae84b988c7, tag=MJ, update-interval=86400, opt-parser=true,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
+https://bava8u2znaj6bdzzjnfb.wgetcloud.online/link/c37740d4-69ee-323c-83bd-c8657693e484, tag=Wget,  img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png, enabled=true
 
 #支持本地/iCloud的节点文件/片段，位于Quantumult X/Profiles路径下
 ;servers.snippet, tag=本地服务器, img-url=https://raw.githubusercontent.com/crossutility/Quantumult-X/master/quantumult-x.png, enabled=false
